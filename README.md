@@ -1,9 +1,9 @@
 # cpp_folder
+
+# Guess The Number
+
 Try to guess the number between 1 and 1000
 
-# How to play?
-
-Access #
 
 # How this works?
 
