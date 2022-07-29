@@ -2,6 +2,7 @@
 #include <ctime>
 using namespace std;
 
+/**Generates random number 1-20*/
 int randomGenerator () {
     srand(time(NULL));
     return rand()%20;
