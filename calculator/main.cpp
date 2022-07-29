@@ -1,9 +1,14 @@
 #include <iostream>
-
+#include <ctime>
 using namespace std;
+
+double ranNumGenerator () {
+    srand(time(NULL));
+    return rand()%100;
+}
 
 int main()
 {
-    cout << "Hello world!" << endl;
+    cout << 2;
     return 0;
 }
