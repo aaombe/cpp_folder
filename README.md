@@ -1,14 +1,14 @@
 # cpp_folder
 
-# Simple-Calculator
+## Simple-Calculator
 
 A simple Calculator for general purposes.
 
-## Why use it?
+### Why use it?
 
 Its useful for simple calculations.
 
-## Features
+### Features
 
 * Add
 * Multiply
@@ -16,14 +16,14 @@ Its useful for simple calculations.
 * Divide
 
 
-# Guess-The-Number
+## Guess-The-Number
 
-# How this works?
+### How this works?
 
 The computer will think of a random number from 1 to 20, and ask you to guess it. The computer will tell you if each guess is too high or too low. You win if you can guess the number.
 
 
-# References
+### References
 
 This game is based on:
 
